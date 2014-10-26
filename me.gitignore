@@ -25,8 +25,11 @@ proguard/
 # Log Files
 *.log
 
-#ignore thumbnails created by windows
+# ignore thumbnails created by windows
 Thumbs.db
+
+# OSX
+.DS_Store
 
 # Other thing
 .idea/
