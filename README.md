@@ -1,4 +1,4 @@
 gitignore-demo
 ==============
 
-test git ignore
+github.git
