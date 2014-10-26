@@ -31,6 +31,9 @@ Thumbs.db
 # OSX
 .DS_Store
 
+# Eclipse project file
+.metadata/
+
 # Other thing
 .idea/
 *.iml
