@@ -33,9 +33,13 @@ Thumbs.db
 
 # Eclipse project file
 .metadata/
+.classpath
+.project
 
-# Other thing
+# Intellij project files
 .idea/
 *.iml
+*.ipr
+*.iws
 
 
